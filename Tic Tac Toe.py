@@ -1,3 +1,5 @@
+# Classic game of Tic Tac Toe made in Python usin tkinter and random library. If you want then you can commit changes
+
 import tkinter as tk
 import random
 from tkinter import messagebox
